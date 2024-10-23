@@ -38,8 +38,8 @@ This project is designed to retrieve weather data from the OpenWeatherMap API at
 
 1. **Clone the Repository**
    ```bash
-   git clone "https://github.com/NachikethDamle/Weather-app-Nachiketh-Damle.git"
-   cd App2-Weather-app
+   git clone "https://github.com/NachikethDamle/Weather-app-NachikethDamle.git"
+   
    ```
 
 2. **Install Backend Dependencies**
@@ -49,7 +49,7 @@ This project is designed to retrieve weather data from the OpenWeatherMap API at
    
    ```
    
-3. **run live server
+3. **run live server(change to the correct repository)**
 
    ```bash
    npm install http-server -g
